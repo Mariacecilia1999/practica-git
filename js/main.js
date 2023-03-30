@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 //Rama bucle for of
 //Ejercicio con for of
 
@@ -13,7 +10,7 @@ const edades = [20, 30, 40, 21]
 
 for( const edad of edades){
    console.log(edad)
-=======
+}
 //First exercise with loop for in
 
 //For in show index
@@ -22,9 +19,8 @@ for( const edad of edades){
 const productos = ['Crema', "Rimmel"]
 for(producto in productos){
    console.log(producto)
->>>>>>> RamaBucleForIn
 }
-=======
+
 //Practice using loop forEach
 
 //First I access the array that I want to go
@@ -40,4 +36,4 @@ const languages = ['Inglés', 'Espanish', "Portuguese"]
 languages.forEach(language =>{
    console.log(language)
 })
->>>>>>> RamaBucleForEach
+
